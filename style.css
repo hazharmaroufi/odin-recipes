@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 20px 20px;
+}
+
+a:link {
+  color: black;
+  margin-left: 20px;
+  line-height: 25px;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
+
+h1 {
+  padding-bottom: 20px;
+  color: black;
+}
+
+.img {
+  border-radius: 20px;
+  margin: 20px auto;
+}
+
+.description {
+  font-size: 16px;
+  padding-bottom: 10px;
+}
+
+ul,
+ol {
+  margin: 10px 30px;
+}
+
+li {
+  font-size: 16px;
+  line-height: 25px;
+}
+
+.logo {
+  text-align: center;
+}
